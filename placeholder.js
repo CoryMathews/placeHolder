@@ -1,3 +1,4 @@
+//https://github.com/CoryMathews/placeHolder
 (function($) {
   $.fn.placeholder = function() {
     if(typeof document.createElement("input").placeholder == 'undefined') {

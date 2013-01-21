@@ -1,6 +1,6 @@
 {
-  "name": "jquery.ie.placeholder",
-  "title": "jQuery IE placeHolder",
+  "name": "input_placeholder",
+  "title": "jQuery input placeHolder",
   "description": "Adds the placeholder attribute to input fields in browsers that don't support them.",
   "keywords": [
     "placeholder",

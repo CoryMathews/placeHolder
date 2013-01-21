@@ -1,0 +1,32 @@
+{
+  "name": "input_placeholder",
+  "title": "jQuery input placeHolder",
+  "description": "Adds the placeholder attribute to input fields in browsers that don't support them.",
+  "keywords": [
+    "placeholder",
+    "input",
+    "form",
+    "html5",
+    "modernizer",
+    "polyfill",
+    "polyfiller"
+  ],
+  "version": "1.0.1",
+  "author": {
+    "name": "Cory Mathews",
+    "url": "https://github.com/CoryMathews/placeHolder"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+    }
+  ],
+  "bugs": "https://github.com/CoryMathews/placeHolder/issues",
+  "homepage": "https://github.com/CoryMathews/placeHolder",
+  "docs": "http://corymathews.com/html5-placeholder-in-ie/",
+  "download": "https://github.com/CoryMathews/placeHolder/blob/master/placeholder.js",
+  "dependencies": {
+    "jquery": ">=1.4"
+  }
+}
